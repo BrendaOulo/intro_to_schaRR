@@ -1,4 +1,4 @@
-# Introduction to R Teaching Material | ScHARR <img src="https://github.com/RobertASmith/darkpeak/blob/main/man/figures/logo_concise.PNG" align="right" width="120" />
+# Introduction to R Short Course | ScHARR <img src="https://github.com/RobertASmith/darkpeak/blob/main/man/figures/logo_concise.PNG" align="right" width="120" />
 
 The coursebook for this remote learning course can be found online [**INSERT LINK HERE**]().
 
@@ -42,3 +42,5 @@ Please clone this repository to your machine, or download the files as a zip fol
 We hope you find the content useful.
 
 [Robert Smith](https://www.linkedin.com/in/robert-smith-53b28438/)
+
+Copyright © 2022 [Dark Peak Analytics, Ltd](https://www.darkpeakanalytics.com)
