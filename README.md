@@ -1,6 +1,6 @@
 # Introduction to R Short Course | ScHARR <img src="https://github.com/RobertASmith/darkpeak/blob/main/man/figures/logo_concise.PNG" align="right" width="120" />
 
-The coursebook for this remote learning course can be found online [**INSERT LINK HERE**](https://intro2scharr.netlify.app/).
+The coursebook for this remote learning course can be found [online](https://intro2scharr.netlify.app/).
 
 ## Contents of this repository
 
