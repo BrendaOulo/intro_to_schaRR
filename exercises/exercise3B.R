@@ -26,4 +26,4 @@
 
 # 11. Create a scatter plot for the relationship between age and systolic blood pressure in your subsample
 # NOTE:
-# Use age for the x-axis, and sysBP for the y-axis in the plot() function. And then use the fit_f/fit_m object in the abline() function.
+# Use age for the x-axis, and sysBP for the y-axis in the plot() function.
